@@ -1,4 +1,4 @@
-name: Zenith Data Backup
+name: PBCTF Data Backup
 
 on:
   schedule:

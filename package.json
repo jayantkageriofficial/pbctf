@@ -36,7 +36,7 @@
     "lucide-react": "0.446.0",
     "mongoose": "9.7.1",
     "next": "13.5.11",
-    "postcss": "8.5.15",
+    "postcss": "8.5.23",
     "posthog-js": "1.391.2",
     "posthog-node": "5.38.2",
     "postprocessing": "6.39.1",
@@ -59,7 +59,7 @@
     "jose": "5.10.0",
     "minimatch": "9.0.9",
     "node-fetch": "2.7.0",
-    "postcss": "8.5.15",
+    "postcss": "8.5.23",
     "uuid": "11.1.1"
   }
 }
